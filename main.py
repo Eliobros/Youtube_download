@@ -116,7 +116,7 @@ def api_documentation():
   "termos_de_uso": {
     "descricao": "O uso da API está sujeito aos seguintes termos. Ao utilizar a API, você concorda com as condições aqui descritas. A Eliobros Tech se reserva o direito de modificar os termos de uso a qualquer momento.",
     "política_de_privacidade": "As informações coletadas são usadas exclusivamente para fornecer os serviços da API e não serão compartilhadas com terceiros sem o consentimento do usuário."
-  }
+  },
   "Suporte e Redes sociais ": {
     "Whatsapp": "https://api.whatsapp.com/send?phone=258862840075",
     "Facebook": "Zëüs Lykraios Takashi",
